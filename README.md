@@ -1,9 +1,16 @@
-# Assignment
-an assignment for nabt
+# assignment
 
+An app assignment for Napt
 
-this assignment was used for making an application that can fetch the data from an API to a list of users. If any user is clicked, a details screen will show the user's details in it.
+## Getting Started
 
-- Provider was used as the StateManagment.
-- Dio was used for HTTP connection.
-- JsonPlacer website was used as the API from JSON (http://jsonplaceholder.typicode.com).
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+
+For help getting started with Flutter, view our
+[online documentation](https://flutter.dev/docs), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
